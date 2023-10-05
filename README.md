@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rakeshkurakula
 - 👀 I’m interested in Playing games ,Exploring data and building products
-- 🌱 I’m currently learning Zero shot learning
 - 💞️ I’m looking to collaborate on Projects, data science and Hackathons
 - 📫 How to reach me email me @ rakesh.2994@gmail.com
 
