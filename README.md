@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  Exploring LLMs and Agents to evaluate and improve the value.
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=rakeshkurakula&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
