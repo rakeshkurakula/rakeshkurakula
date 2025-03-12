@@ -28,6 +28,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark" />
 </p>
@@ -38,12 +39,17 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Azure_ML-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure ML" />
 </p>
 
 ### LLM Ecosystem
 <p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/LangSmith-2E77BC?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangSmith" />
+  <img src="https://img.shields.io/badge/LlamaIndex-FF4500?style=for-the-badge&logo=llama&logoColor=white" alt="LlamaIndex" />
+  <img src="https://img.shields.io/badge/Llama.cpp-4B0082?style=for-the-badge&logo=meta&logoColor=white" alt="Llama.cpp" />
+  <img src="https://img.shields.io/badge/Ollama-00A36C?style=for-the-badge&logo=llama&logoColor=white" alt="Ollama" />
   <img src="https://img.shields.io/badge/GCP_Gemini-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP Gemini" />
 </p>
 
@@ -66,8 +72,12 @@
 ### Cloud & DevOps
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="S3" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Blob_Storage-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Blob Storage" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/OSS-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="OSS" />
 </p>
 
 ## 🚀 Featured Projects
