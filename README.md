@@ -60,7 +60,7 @@
   <img src="https://img.shields.io/badge/Finetuning-FF9900?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Finetuning" />
   <img src="https://img.shields.io/badge/Structured_Output_(SLMs)-00BFFF?style=for-the-badge&logo=openai&logoColor=white" alt="Structured Output (SLMs)" />
   <img src="https://img.shields.io/badge/RAG-9146FF?style=for-the-badge&logo=openai&logoColor=white" alt="RAG" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-FF4500?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF4500?style=for-the-badge&logo=openai&logoColor=white" alt="Function Calling(Tool Calling)" />
 </p>
 
 ### Vector Databases & Feature Stores
