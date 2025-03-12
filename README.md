@@ -47,10 +47,20 @@
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/LangSmith-2E77BC?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangSmith" />
+  <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=robot&logoColor=white" alt="CrewAI" />
+  <img src="https://img.shields.io/badge/Agno_(phiData)-6236FF?style=for-the-badge&logo=data&logoColor=white" alt="Agno (phiData)" />
   <img src="https://img.shields.io/badge/LlamaIndex-FF4500?style=for-the-badge&logo=llama&logoColor=white" alt="LlamaIndex" />
   <img src="https://img.shields.io/badge/Llama.cpp-4B0082?style=for-the-badge&logo=meta&logoColor=white" alt="Llama.cpp" />
   <img src="https://img.shields.io/badge/Ollama-00A36C?style=for-the-badge&logo=llama&logoColor=white" alt="Ollama" />
   <img src="https://img.shields.io/badge/GCP_Gemini-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP Gemini" />
+</p>
+
+### Advanced LLM Techniques
+<p align="center">
+  <img src="https://img.shields.io/badge/Finetuning-FF9900?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Finetuning" />
+  <img src="https://img.shields.io/badge/Structured_Output_(SLMs)-00BFFF?style=for-the-badge&logo=openai&logoColor=white" alt="Structured Output (SLMs)" />
+  <img src="https://img.shields.io/badge/RAG-9146FF?style=for-the-badge&logo=openai&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF4500?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
 </p>
 
 ### Vector Databases & Feature Stores
