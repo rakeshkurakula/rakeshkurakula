@@ -126,20 +126,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description |
-|---------|-------------|
-| **🤖 LLM-Powered Customer Support Agent** | An intelligent agent that leverages LLMs to provide automated customer support with human-like understanding and responses. |
-| **📊 Predictive Analytics Dashboard** | A comprehensive dashboard for business intelligence with predictive capabilities to forecast key metrics and identify trends. |
-| **👁️ Computer Vision for Quality Control** | Implemented deep learning models to automate quality control in manufacturing processes, reducing defects by 35%. |
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
