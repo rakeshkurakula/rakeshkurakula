@@ -129,14 +129,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakeshkurakula&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshkurakula&theme=tokyonight" height="150" alt="GitHub Streak" />
+  <a href="https://github.com/rakeshkurakula">
+    <img src="https://github-readme-stats.vercel.app/api?username=rakeshkurakula&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/rakeshkurakula">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshkurakula&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
-<br>
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rakeshkurakula&theme=nord&column=7&margin-w=15&margin-h=15" alt="GitHub Trophy" />
+  <a href="https://github.com/rakeshkurakula">
+    <img src="https://github-profile-trophy.vercel.app/?username=rakeshkurakula&theme=nord&column=7&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophy" />
+  </a>
 </div>
 
 ---
