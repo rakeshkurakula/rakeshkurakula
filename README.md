@@ -166,7 +166,6 @@ You can click the Preview link to take a look at your changes.
 --->
 ## 🗓️ Planned Tasks (Aug–Oct 2025)
 
-<img align="right" alt="Tasks" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM3OTRjMzIzMzM1MzU1NzQ3NmM0ZDQ3MzEzMDM5NzE1YTRkYzRkNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - [ ] **LLM Evaluation Framework** (Due: Aug 30, 2025)
   - Build comprehensive evaluation suite for domain-specific LLMs
