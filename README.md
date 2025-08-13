@@ -43,7 +43,48 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 </details>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM3OTRjMzIzMzM1MzU1NzQ3NmM0ZDQ3MzEzMDM5NzE1YTRkYzRkNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
+## 🔭 Current Focus
+
+- 🤖 Exploring Large Language Models (LLMs) and AI Agents to evaluate and improve business value
+- 🚀 Building scalable machine learning pipelines for production environments
+- 💡 Researching applications of generative AI in enterprise solutions
+- 📊 Improving LLM evaluation metrics and optimizing fine-tuning strategies for domain-specific applications
+- 🎬 Enhancing video AI pipelines to automate video content understanding and scene segmentation
+
+## 💼 Professional Experience
+
+- 🧠 **Senior Data Scientist** with expertise in machine learning, deep learning, and statistical analysis
+- 🔄 Experienced in developing end-to-end data science solutions from concept to deployment
+- 🎯 Skilled in translating complex business problems into data-driven solutions
+
+---
+
+## 🛠️ Technical Skills
+
+<details open>
+<summary><b>Programming & Frameworks</b></summary>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark" />
+</p>
+
+</details>
+
+<details open>
+<summary><b>Machine Learning & AI</b></summary>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+</p>
+
+</details>
 ---
 
 ## 🗓️ Planned Tasks (Aug–Oct 2025)
