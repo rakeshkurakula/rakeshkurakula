@@ -1,48 +1,20 @@
 <div align="center">
-
+  
 # 👋 Hey there, I'm Rakesh Kurakula
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakeshkurakula) ![Profile Views](https://komarev.com/ghpvc/?username=rakeshkurakula&style=for-the-badge&color=0e75b6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakeshkurakula)
+![Profile Views](https://komarev.com/ghpvc/?username=rakeshkurakula&style=for-the-badge&color=0e75b6)
 
 ### Senior Data Scientist | India
 
 </div>
 
-> <p align="center">Welcome to my GitHub profile! Here, I share my data science projects, research insights, and innovative solutions.</p>
+<p align="center">
+  <i>Welcome to my GitHub profile! Here, I share my data science projects, research insights, and innovative solutions.</i>
+</p>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM3OTRjMzIzMzM1MzU1NzQ3NmM0ZDQ3MzEzMDM5NzE1YTRkYzRkNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
-
-## 🔭 Current Focus
-
-- • 🤖 Exploring Large Language Models (LLMs) and AI Agents to evaluate and improve business value
-- • 🚀 Building scalable machine learning pipelines for production environments
-- • 💡 Researching applications of generative AI in enterprise solutions
-- • 📊 Improving LLM evaluation metrics and optimizing fine-tuning strategies for domain-specific applications
-- • 🎬 Enhancing video AI pipelines to automate video content understanding and scene segmentation
-
-## 💼 Professional Experience
-
-- • 🧠 Senior Data Scientist with expertise in machine learning, deep learning, and statistical analysis
-- • 🔄 Experienced in developing end-to-end data science solutions from concept to deployment
-- • 🎯 Skilled in translating complex business problems into data-driven solutions
-
-## 🛠️ Technical Skills
-
-<details>
-<summary><strong>Programming & Frameworks</strong></summary>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![PySpark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
-
-</details>
-
-<details>
-<summary><strong>Machine Learning & AI</strong></summary>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-</details>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM3OTRjMzIzMzM1MzU1NzQ3NmM0ZDQ3MzEzMDM5NzE1YTRkYzRkNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🔭 Current Focus
@@ -60,7 +32,6 @@
 - 🎯 Skilled in translating complex business problems into data-driven solutions
 
 ---
-
 
 ## 🛠️ Technical Skills
 
@@ -193,8 +164,6 @@ I'm always open to interesting conversations and collaboration opportunities.
 rakeshkurakula/rakeshkurakula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
----
-
 ## 🗓️ Planned Tasks (Aug–Oct 2025)
 
 <img align="right" alt="Tasks" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM3OTRjMzIzMzM1MzU1NzQ3NmM0ZDQ3MzEzMDM5NzE1YTRkYzRkNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
