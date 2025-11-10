@@ -164,30 +164,30 @@ I'm always open to interesting conversations and collaboration opportunities.
 rakeshkurakula/rakeshkurakula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## 🗓️ Planned Tasks (Aug–Oct 2025)
+## 🗓️ Planned Tasks (Nov 2025–Feb 2026)
 
 
-- [ ] **LLM Evaluation Framework** (Due: Aug 30, 2025)
+- [ ] **LLM Evaluation Framework** (Due: Nov 30, 2025
   - Build comprehensive evaluation suite for domain-specific LLMs
   - Target: 95% accuracy on custom benchmark dataset
   - Deliverable: Open-source Python package with documentation
 
-- [ ] **Agent Orchestration Pipeline** (Due: Sep 15, 2025)
+- [ ] **Agent Orchestration Pipeline** (Due: Dec 15, 2025
   - Design multi-agent system for automated MLOps workflows
   - Target: Reduce deployment time by 60%
   - Deliverable: Production-ready containerized solution
 
-- [ ] **Video AI Enhancement** (Due: Sep 30, 2025)
+- [ ] **Video AI Enhancement** (Due: Jan 15, 2026
   - Implement real-time scene segmentation for video content
   - Target: Process 1080p video at 30 FPS with <200ms latency
   - Deliverable: FastAPI service with performance benchmarks
 
-- [ ] **LLM Fine-tuning Optimization** (Due: Oct 15, 2025)
+- [ ] **LLM Fine-tuning Optimization** (Due: Jan 31, 2026
   - Develop parameter-efficient fine-tuning strategies
   - Target: Achieve 90% of full fine-tuning performance with 10% parameters
   - Deliverable: Research paper and implementation code
 
-- [ ] **Enterprise GenAI Integration** (Due: Oct 31, 2025)
+- [ ] **Enterprise GenAI Integration** (Due: Feb 28, 2026
   - Build scalable RAG system for enterprise knowledge bases
   - Target: Handle 10M+ documents with <2s query response time
   - Deliverable: Production deployment guide and monitoring dashboard
