@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakeshkurakula)
 ![Profile Views](https://komarev.com/ghpvc/?username=rakeshkurakula&style=for-the-badge&color=0e75b6)
 
-### Senior Data Scientist | India
+### Data Science Lead | India
 
 </div>
 
